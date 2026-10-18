@@ -16,3 +16,12 @@ for i in s:
 
 
 print(list)
+
+
+
+
+        if correct == target:
+            print(f"{i}, {count - 1}")
+            exit()
+        else:
+            pass
